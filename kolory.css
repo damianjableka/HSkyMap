@@ -1,0 +1,38 @@
+* {
+ FONT-SIZE: 11px;
+ COLOR: #eeeeee;
+ font-family: 'Times New Roman','Courier New','Arial'}
+
+body {	
+scrollbar-3dlight-color:#cccccc; 
+scrollbar-arrow-color:#cccccc; 
+scrollbar-base-color:#333333; 
+scrollbar-dark-shadow-color:#333333; 
+scrollbar-face-color:#333333; 
+scrollbar-highlight-color:#333333; 
+scrollbar-shadow-color:#cccccc;
+background-color: #333333;
+overflow-y:scroll}
+
+A:link {
+ color:#ffffff;
+ text-decoration: none}
+A:visited {
+ color:#ffffff;
+ font-style: italic;
+ text-decoration: none }
+A:active {
+ color:#ffffff;
+ text-decoration: none}
+A:hover {
+ color:#ffffff;
+ text-decoration: overline;
+ text-decoration: underline
+}
+
+		form, input, select, textarea, text {
+			margin:0;
+			padding:0;
+			background-color: #333333;
+		}
+ 
